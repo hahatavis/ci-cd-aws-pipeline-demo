@@ -18,4 +18,4 @@ export class CiCdAwsPipelineDemoStack extends cdk.Stack {
       })
     })
   }
-}
+};
